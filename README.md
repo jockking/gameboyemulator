@@ -5,4 +5,14 @@ I've been keen to learn how machine emulation works.  After considering which pl
 Key steps
 
 1) Decide upon which language to write the emulator in
-2) .... tbc
+2) Code out the CPU and memory emulation
+3) CPU timing
+4) Graphics GPU emulation
+5) Sounds
+5) Subsystem events
+  - Joypad
+  - timer
+  - DMA
+  - Sprites
+  - interrupts
+  
